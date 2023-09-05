@@ -1,1 +1,134 @@
+body {
+  background-color: rgb(232, 80, 15);
+  background-size: 100%;
+  color: rgb(19, 16, 16);
+  font-style: italic;
+  font-size: xx-large;
+  font-family: fantasy;
+}
+
+header,
+h1 {
+  background-color: rgb(238, 229, 226);
+  font-size: 70px;
+  font-weight: 600;
+  color: #0b0603;
+  text-shadow: 0px 0px 5px #b393d3, 0px 0px 10px #b393d3, 0px 0px 10px #b393d3,
+    0px 0px 20px #b393d3;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+H2 {
+  text-align: center;
+  background-color: rgb(238, 229, 226);
+  font-size: 40px;
+  font-weight: 600;
+  color: #f26b18;
+  text-shadow: 0px 0px 5px #b393d3, 0px 0px 10px #b393d3, 0px 0px 10px #b393d3,
+    0px 0px 20px #b393d3;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+p {
+  background-color: rgb(243, 151, 45);
+  color: black;
+  text-align: center;
+  font-size: 50 px;
+  font-family: fantasy;
+}
+
+article {
+  font: icon;
+  font-size: x-large;
+}
+aside {
+  background-color: rgb(222, 156, 123);
+  font-size: larger;
+  color: rgb(7, 6, 6);
+  padding: 60px;
+  width: 600px;
+  float: right;
+  border-radius: 40px;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table,
+th,
+td,
+tr {
+  border: 10px solid black;
+}
+
+tr.a {
+  background-color: rgb(176, 87, 54);
+}
+tr.b {
+  background-color: rgb(240, 94, 27);
+}
+tr.c {
+  background-color: rgb(242, 101, 41);
+}
+tr.d {
+  background-color: rgb(232, 127, 21);
+}
+td {
+  width: 60px;
+  height: 60px;
+  border: 3px solid #c94414;
+}
+td.v {
+  background-color: rgb(222, 100, 62);
+}
+td.q {
+  background-color: rgb(235, 97, 55);
+}
+td.a {
+  background-color: rgb(213, 105, 55);
+}
+td.b {
+  background-color: rgb(196, 99, 34);
+}
+td.c {
+  background-color: rgb(221, 113, 51);
+}
+td.e {
+  background-color: rgb(240, 120, 69);
+}
+td.f {
+  background-color: rgb(244, 139, 59);
+}
+td.g {
+  background-color: rgb(245, 74, 48);
+}
+td.h {
+  background-color: rgb(240, 156, 54);
+}
+td.m {
+  background-color: rgb(247, 114, 66);
+}
+td.l {
+  background-color: rgb(237, 101, 33);
+}
+td.n {
+  background-color: rgb(174, 75, 44);
+}
+td.o {
+  background-color: rgb(236, 110, 14);
+}
+td.p {
+  background-color: rgb(244, 148, 78);
+}
+
+td.z {
+  background-color: rgb(242, 116, 32);
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(222, 156, 123);
+  color: rgb(17, 15, 15);
+}
 
